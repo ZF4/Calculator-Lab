@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         clearAll()
+        print("Hey we changed something.")
     }
     
     func clearAll() {
