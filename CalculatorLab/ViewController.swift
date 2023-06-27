@@ -19,6 +19,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         clearAll()
         print("Hey we changed something.")
+        print("Hey we changed something.")
+        print("Hey we changed something.")
+        
+        
     }
     
     func clearAll() {
